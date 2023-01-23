@@ -1,1 +1,1 @@
-TinDog Starting Files
+First project using just basic HTML and CSS.
